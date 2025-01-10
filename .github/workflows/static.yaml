@@ -32,7 +32,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Install Dependencies
-        run: yarn install
+        run: |
+          yarn set version stable
+          yarn install
       - name: Build
         run: yarn run build
       - name: Setup Pages
