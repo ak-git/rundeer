@@ -19,5 +19,8 @@
     "vite": "^6.0.7",
     "yarn-upgrade-all": "^0.7.4"
   },
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "bulma": "^1.0.3"
+  }
 }
