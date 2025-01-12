@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="hero-body">
-            <div class="container columns has-text-centered">
+            <div class="container box has-text-centered columns">
                 <div class="column">
                     <article class="panel is-warning">
                         <p class="panel-heading">
