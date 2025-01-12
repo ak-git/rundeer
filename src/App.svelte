@@ -1,6 +1,6 @@
 <script lang="ts">
-    import cyberconstructor from './assets/cyberconstructor.png'
-    import cyberchief from './assets/cyberchief.png'
+    import cyberhealth from './assets/cyberhealth.png'
+    import healthreserve from './assets/healthreserve.png'
 </script>
 
 <main>
@@ -20,31 +20,31 @@
         <div class="hero-body">
             <div class="container box has-text-centered columns">
                 <div class="column">
-                    <article class="panel is-warning">
+                    <article class="panel is-success">
                         <p class="panel-heading">
                             <a class="tag is-rounded is-large is-hoverable"
-                               href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
-                                КиберКонструктор
+                               href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
+                                Кибер Здоровье
                             </a>
                         </p>
-                        <a href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
+                        <a href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
                             <figure class="image">
-                                <img src="{cyberconstructor}" alt="cyberconstructor"/>
+                                <img src="{cyberhealth}" alt="cyberhealth"/>
                             </figure>
                         </a>
                     </article>
                 </div>
                 <div class="column">
-                    <article class="panel is-dark">
+                    <article class="panel is-text">
                         <p class="panel-heading">
                             <a class="tag is-rounded is-large is-hoverable"
-                               href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
-                                КиберГлавный
+                               href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
+                                Запас Здоровья
                             </a>
                         </p>
-                        <a href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
+                        <a href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
                             <figure class="image is-fullwidth">
-                                <img src="{cyberchief}" alt="cyberchief"/>
+                                <img src="{healthreserve}" alt="healthreserve"/>
                             </figure>
                         </a>
                     </article>
