@@ -51,5 +51,10 @@
                 </div>
             </div>
         </div>
+        <div class="hero-foot">
+            <div class="content has-text-centered">
+                <a href="https://www.savostyanov.moscow">savostyanov.moscow</a>
+            </div>
+        </div>
     </section>
 </main>
