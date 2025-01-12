@@ -8,14 +8,12 @@
         <div class="hero-head">
             <div class="container box has-text-centered media">
                 <div class="media-left">
-                    <figure class="image is-64x64">
+                    <figure class="image is-48x48">
                         <img src="favicon.svg" alt="Logo"/>
                     </figure>
                 </div>
                 <div class="media-content">
-                    <p class="title button is-info">
-                        Цифровой тест на Здоровье
-                    </p>
+                    <p class="title">Цифровой тест на Здоровье</p>
                 </div>
             </div>
         </div>
