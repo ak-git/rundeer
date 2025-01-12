@@ -52,7 +52,7 @@
             </div>
         </div>
         <div class="hero-foot">
-            <div class="content has-text-centered">
+            <div class="container box has-text-centered">
                 <a href="https://www.savostyanov.moscow">savostyanov.moscow</a>
             </div>
         </div>
