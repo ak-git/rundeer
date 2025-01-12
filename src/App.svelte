@@ -13,7 +13,7 @@
                     </figure>
                 </div>
                 <div class="media-content">
-                    <p class="title">Цифровой тест на Здоровье</p>
+                    <p class="title">Цифровой тест <nobr>на Здоровье</nobr></p>
                 </div>
             </div>
         </div>
