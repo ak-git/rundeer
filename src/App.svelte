@@ -6,54 +6,48 @@
 <main>
     <section class="hero is-small">
         <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-                    <div class="navbar-brand">
-                        <div class="navbar-item">
-                            <img src="favicon.svg" alt="Logo"/>
-                        </div>
-                        <div class="navbar-item">
-                            <p class="title">Цифровой тест на Здоровье</p>
-                        </div>
-                    </div>
+            <div class="container box has-text-centered media">
+                <div class="media-left">
+                    <figure class="image is-48x48">
+                        <img src="favicon.svg" alt="Logo"/>
+                    </figure>
                 </div>
-            </nav>
+                <div class="media-content">
+                    <p class="title">Цифровой тест на Здоровье</p>
+                </div>
+            </div>
         </div>
         <div class="hero-body">
             <div class="container columns has-text-centered">
                 <div class="column">
-                    <div>
-                        <article class="panel is-warning">
-                            <p class="panel-heading">
-                                <a class="tag is-rounded is-large is-hoverable"
-                                   href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
-                                    КиберКонструктор
-                                </a>
-                            </p>
-                            <a href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
-                                <figure class="image">
-                                    <img src="{cyberconstructor}" alt="cyberconstructor"/>
-                                </figure>
+                    <article class="panel is-warning">
+                        <p class="panel-heading">
+                            <a class="tag is-rounded is-large is-hoverable"
+                               href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
+                                КиберКонструктор
                             </a>
-                        </article>
-                    </div>
+                        </p>
+                        <a href="http://www.cyberconstructor.ru.s3-website-us-east-1.amazonaws.com">
+                            <figure class="image">
+                                <img src="{cyberconstructor}" alt="cyberconstructor"/>
+                            </figure>
+                        </a>
+                    </article>
                 </div>
                 <div class="column">
-                    <div>
-                        <article class="panel is-dark">
-                            <p class="panel-heading">
-                                <a class="tag is-rounded is-large is-hoverable"
-                                   href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
-                                    КиберГлавный
-                                </a>
-                            </p>
-                            <a href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
-                                <figure class="image is-fullwidth">
-                                    <img src="{cyberchief}" alt="cyberchief"/>
-                                </figure>
+                    <article class="panel is-dark">
+                        <p class="panel-heading">
+                            <a class="tag is-rounded is-large is-hoverable"
+                               href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
+                                КиберГлавный
                             </a>
-                        </article>
-                    </div>
+                        </p>
+                        <a href="http://www.cyberchief.ru.s3-website-us-east-1.amazonaws.com">
+                            <figure class="image is-fullwidth">
+                                <img src="{cyberchief}" alt="cyberchief"/>
+                            </figure>
+                        </a>
+                    </article>
                 </div>
             </div>
         </div>
