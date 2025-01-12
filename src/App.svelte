@@ -53,7 +53,9 @@
         </div>
         <div class="hero-foot">
             <div class="container box has-text-centered">
-                <a href="https://www.savostyanov.moscow">savostyanov.moscow</a>
+                <a class="button is-link is-outlined is-rounded" href="https://www.savostyanov.moscow">
+                    savostyanov.moscow
+                </a>
             </div>
         </div>
     </section>
